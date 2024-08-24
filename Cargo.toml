@@ -1,0 +1,8 @@
+[package]
+name = "erc721-tm"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+risc0-zkp = "1.0.5"
+risc0-zkvm = "1.0.5"
